@@ -1,4 +1,4 @@
-<img width="208" alt="image" src="https://github.com/framilano/Pico8LuaMerger/assets/28491164/07aaba44-4ffb-4c03-9faf-c2a5b54ff995"># Pico8LuaMerger
+# Pico8LuaMerger
 Script created mainly to support pico8 development and programming using external code editors. 
 Merges multiple .lua files in a single pico8 .p8 file.
 
