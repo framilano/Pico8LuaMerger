@@ -9,7 +9,6 @@ Your PICO8 project requires the following structure:
 - Python3 installed
 - A main .p8 file containing the basic callbacks (_init, _draw, _update) or whatever you need
 - Multiple `#include` statements **under** the basic callbacks (check template.p8 to see an example)
-<img width="852" alt="image" src="https://github.com/framilano/Pico8LuaMerger/assets/28491164/ac2ce785-fe6c-43a9-b19a-32f653c1175f">
 - That's it, check `compiled_template.p8` to see a result example
 
 ## Usage
